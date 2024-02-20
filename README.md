@@ -4,7 +4,7 @@ Before running the video player application, ensure that the following dependenc
 Python 3.x
 PySide6 library
 moviepy library
-To execute the application, navigate to the "dist" folder and run the executable file.
+To execute the application, run "main.py" file  
 
 
 How to Use Video Player:
