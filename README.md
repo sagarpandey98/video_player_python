@@ -1,1 +1,1 @@
-Refer "VidePlayerManual.docx" inside the main repo directory and please use small video clips to better test the video player!!
+Refer "VidePlayerManual.docx" inside the main repo directory. As this video player use frame by frame manipulation to get compatible with Pyside so it is advised to use small video clips (up to 100 mb) to better test the video player
